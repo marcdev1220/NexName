@@ -1,0 +1,14 @@
+# === NexName — downloads-only repository ===
+# This repo publishes the README and the built releases (the Releases page), NOT the
+# source code. Track ONLY the public landing files; ignore everything else so the
+# source, build output, and zips stay local and never get committed.
+
+# Ignore everything at the repo root by default...
+/*
+
+# ...then allow back only the public files:
+!/.gitattributes
+!/.gitignore
+!/.github/
+!/LICENSE
+!/README.md
