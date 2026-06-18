@@ -38,9 +38,9 @@ A two-pane window: the **file queue** (with a live preview of the new names) on 
 - **Rename…** shows a confirmation with a few old → new examples, then performs the renames in two phases (so swaps like `a.txt`↔`b.txt`, cycles, and case-only changes all work). A results bar reports how many were renamed / failed.
 - **Undo last rename** puts the batch back.
 ## Screenshots
-<img width="1920" height="1032" alt="3" src="https://github.com/user-attachments/assets/637c2b5d-bb65-4efe-a1f2-c35ae1cd9393" />
-<img width="1422" height="825" alt="2" src="https://github.com/user-attachments/assets/392c57c5-074d-4345-8736-d3c618a7e43d" />
 <img width="1426" height="746" alt="1" src="https://github.com/user-attachments/assets/ce20282b-a8b9-4be0-bd97-928bb605ba56" />
+<img width="1422" height="825" alt="2" src="https://github.com/user-attachments/assets/392c57c5-074d-4345-8736-d3c618a7e43d" />
+<img width="1920" height="1032" alt="3" src="https://github.com/user-attachments/assets/637c2b5d-bb65-4efe-a1f2-c35ae1cd9393" />
 
 ## Requirements
 
